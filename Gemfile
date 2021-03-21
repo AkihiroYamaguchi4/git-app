@@ -51,3 +51,4 @@ group :test do
 end
 
 # Windows does not include zoneinfo files, so bundle t
+gem 'devise'
